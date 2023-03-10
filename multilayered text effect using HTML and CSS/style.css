@@ -37,6 +37,7 @@ span::before{
         #ed0a8b 2px,
         #ed0a8b 4px
     );
+    
     -webkit-background-clip: text;
     background-clip: text;
     z-index: -1;
